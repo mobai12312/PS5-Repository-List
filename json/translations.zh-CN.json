@@ -734,5 +734,245 @@
   "rodri0x/ps5-acestream": {
     "source": "Experimental native Ace Stream player for jailbroken PS5: the engine runs on the console, with hardware H.264 decoding and a phone page to send channels.",
     "zh": "适用于已破解 PS5 的实验性原生 Ace Stream 播放器，引擎在主机上运行，支持 H.264 硬件解码和通过手机网页发送频道。"
+  },
+  "axotk1k1/hdrezka-ps5": {
+    "source": "",
+    "zh": "PS5 平台的 HDrezka 媒体播放相关项目，原仓库未提供详细简介。"
+  },
+  "brinza666/movian_ps5": {
+    "source": "",
+    "zh": "Movian 媒体播放器的 PS5 移植版，另有可选的插件仓库。"
+  },
+  "handshakehackin/youtube-maxd": {
+    "source": "",
+    "zh": "适用于已破解 PS5 的独立 YouTube 客户端，支持谷歌账号登录、语音搜索、手机遥控、画中画、画质选择及 SponsorBlock 等功能。"
+  },
+  "m0s4ysh3ll0/mediathek-ps5": {
+    "source": "",
+    "zh": "适用于 PS5 的影视媒体库，界面采用类似 Netflix 的布局。"
+  },
+  "mistertemaki/mediaplayerclassicps5": {
+    "source": "",
+    "zh": "经典影音播放器 Media Player Classic Home Cinema 的 PS5 原生移植版，采用 FFmpeg。"
+  },
+  "mounirhero/ps-play": {
+    "source": "",
+    "zh": "PS-Play 媒体播放相关项目，原仓库未提供详细简介。"
+  },
+  "sainsaji/evo-player-ps5": {
+    "source": "",
+    "zh": "EVO Player 的 PS5 版本发布项目，原仓库未提供详细简介。"
+  },
+  "thatguykalvin/prosperotv": {
+    "source": "",
+    "zh": "PS5 原生 IPTV 客户端，提供离线优先的频道目录，支持 H.264、HEVC、VP9 硬件加速播放。"
+  },
+  "xen-made/orion-media-center": {
+    "source": "",
+    "zh": "Orion Media Center 媒体中心项目，原仓库未提供详细简介。"
+  },
+  "bps2414/lineup": {
+    "source": "",
+    "zh": "在已破解 PS5 上通过手柄调整主屏幕游戏排列顺序的自制工具。"
+  },
+  "c0w-ar/ps5-bar-tool": {
+    "source": "",
+    "zh": "解析和导出 PS5 备份与恢复文件的实用工具。"
+  },
+  "cpypwn/elf2jb": {
+    "source": "",
+    "zh": "适用于已破解 PS5 的独立 ns2jb 漏洞加载主机工具。"
+  },
+  "desstannsoftware/pscord": {
+    "source": "",
+    "zh": "适用于已破解 PS5 的原生 Discord 客户端 PSCord。"
+  },
+  "disco-trooper/hush": {
+    "source": "",
+    "zh": "关闭 PS5 持续录制最近游戏片段的功能，以避免系统持续编码和保存游戏录像。"
+  },
+  "eladharels/ps5-60fps": {
+    "source": "",
+    "zh": "PS5 60 FPS 相关实用项目，原仓库未提供详细简介。"
+  },
+  "euphoric-dev/homehider": {
+    "source": "",
+    "zh": "PS5 ELF 工具，可修改应用图标、名称、背景及动态背景，也能隐藏应用、创建文件夹。"
+  },
+  "fluffy-godzilla/ps5-lockshellui": {
+    "source": "",
+    "zh": "将 PS5 ShellUI 图标锁定为预设布局的工具。"
+  },
+  "ghost1372/playtime": {
+    "source": "",
+    "zh": "通过网页查看 PS5 已安装游戏及游玩时长，并允许编辑游戏时长的 ELF 工具。"
+  },
+  "kauansilvalopes/trophy": {
+    "source": "",
+    "zh": "已破解 PS5 的原生奖杯管理工具，支持查看、解锁、锁定及备份奖杯，使用手柄操作。"
+  },
+  "miladrtx/glint": {
+    "source": "",
+    "zh": "将已破解 PS5 的视频和音频以低延迟传输到 Windows 电脑，并支持录制。"
+  },
+  "niakw/niakps5": {
+    "source": "",
+    "zh": "PS5 原生自制软件控制台，支持 DualSense 操作、游戏库及 PS4/PS5 动态 3D 游戏盒展示。"
+  },
+  "owendswang/ps5-web-browser-fullscreen": {
+    "source": "",
+    "zh": "使 PS5 网页浏览器能够以全屏模式打开的工具。"
+  },
+  "ps5-payload-dev/launchpad": {
+    "source": "",
+    "zh": "PS5 Payload Launchpad 项目，原仓库未提供详细简介。"
+  },
+  "quatrixone/prosperoai": {
+    "source": "",
+    "zh": "运行在 PS5 GPU 上、基于大语言模型的简易聊天应用。"
+  },
+  "ramalhoboss/playbridge": {
+    "source": "",
+    "zh": "通过 Windows 电脑观看和收听 PS5 画面与声音，最高支持 4K，可自动加载 ELF；作者称已在 13.60 固件测试。"
+  },
+  "stonedmodder/ps-discordpresence": {
+    "source": "",
+    "zh": "PlayStation 与 Discord 在线状态联动相关项目，原仓库未提供详细简介。"
+  },
+  "strongt1me/ps5-usb-formatierer": {
+    "source": "",
+    "zh": "直接在 PS5 上格式化、检查和管理 USB 存储设备，提供网页界面、主屏幕入口及 Windows/Linux 配套工具。"
+  },
+  "xvvulcanvx/ps5-tabshifter": {
+    "source": "",
+    "zh": "PS5 主机端工具，可在游戏与媒体标签间移动应用，并隐藏离线 PSN 预装内容；标注支持 5.00—13.60 固件。"
+  },
+  "xxbneutzernamexx/ps5-cleanup": {
+    "source": "",
+    "zh": "已破解 PS5 的系统清理工具，无需重装即可清理使用痕迹，保留驱动器绑定、账号和许可证；仍为测试版。"
+  },
+  "yahballon/ps5_ebook_reader": {
+    "source": "",
+    "zh": "PS5 平台的电子书阅读器与书架应用。"
+  },
+  "darkatek7/prosperothemes": {
+    "source": "",
+    "zh": "PS5 主屏幕主题管理器，可应用或还原社区主题，并从 USB 导入；原项目标注适配 13.00 固件。"
+  },
+  "griches/ps5_artswap": {
+    "source": "",
+    "zh": "使用 SteamGridDB 图片替换 PS5 游戏的主屏幕图标和背景，并通过 ShadowMountPlus 刷新界面。"
+  },
+  "nikobellikjr31/ps5-custom-tool-manager-": {
+    "source": "",
+    "zh": "PS5 自定义工具管理项目，原仓库未提供详细简介。"
+  },
+  "saveeditors/lightbareditor": {
+    "source": "",
+    "zh": "桌面端 PS5 光条效果编辑器，可修改关机画面光条颜色、粒子配色和过渡纹理，并通过 FTP 传输。"
+  },
+  "stupiditytries/kabuki-ps5": {
+    "source": "",
+    "zh": "Kabuki 是 PS5 原生 ShellUI 控制中心叠加界面，自制程序可添加自己的功能磁贴。"
+  },
+  "zizc3/liveshell": {
+    "source": "",
+    "zh": "为 PS5 主屏幕提供动态背景的项目。"
+  },
+  "abcde6543/ps5-ntfs-browser": {
+    "source": "",
+    "zh": "PS5 NTFS 文件浏览工具；原仓库没有提供具体功能说明。"
+  },
+  "cy33hc/ps5-ezremote-client": {
+    "source": "",
+    "zh": "PS5 ezRemote 客户端项目，原仓库未提供详细简介。"
+  },
+  "cy33hc/ps5-ezremote-server": {
+    "source": "",
+    "zh": "PS5 ezRemote 服务端项目，原仓库未提供详细简介。"
+  },
+  "herbrax/chiral-ftp": {
+    "source": "",
+    "zh": "集文件管理与 FTP 功能于一体的工具箱。"
+  },
+  "jstrdev/ps5directo": {
+    "source": "",
+    "zh": "已破解 PS5 的文件管理器，可在一个流程中下载、转换和发送文件，并提供游戏库、备份与诊断功能。"
+  },
+  "sweenyxsky-oss/ps5-network-mounting": {
+    "source": "",
+    "zh": "PS5 网络挂载相关项目，原仓库未提供详细简介。"
+  },
+  "xxd3v3l0p3rxx/blackwiresmb": {
+    "source": "",
+    "zh": "用于连接 PS5 和电脑 SMB 网络共享的工具。"
+  },
+  "drakmor/ps5-hwinfo": {
+    "source": "",
+    "zh": "PS5 硬件信息相关工具，原仓库未提供详细简介。"
+  },
+  "earthonion/ddd_status": {
+    "source": "",
+    "zh": "查看 PS5 可拆卸光驱的配对状态。"
+  },
+  "earthonion/kdump_ps5": {
+    "source": "",
+    "zh": "将 PS5 内核转储到 USB 存储设备的工具。"
+  },
+  "earthonion/module_dumper": {
+    "source": "",
+    "zh": "将 PS5 系统中的模块或文件导出到 USB 设备。"
+  },
+  "opensourcerer-dev/ps5debug-ng": {
+    "source": "",
+    "zh": "PS5 Debug NG 调试项目，原仓库未提供详细简介。"
+  },
+  "n0llptr/playstation-5-save-mounter": {
+    "source": "",
+    "zh": "PS5 游戏存档挂载相关项目，原仓库未提供详细简介。"
+  },
+  "venezuelanbiggie24/machetesvg-ps5-save-manager": {
+    "source": "",
+    "zh": "正在开发的 PS4/PS5 存档管理器，可通过占位注入处理跨主机存档，需注意目前 PS5 根密钥尚未公开。"
+  },
+  "chillquant/direct-stream-ps5": {
+    "source": "",
+    "zh": "将 HTTP/HTTPS 下载内容高速并行传输到 PS5 FTP 存储的 Python 工具，提供本地网页控制台，无需额外 Python 依赖。"
+  },
+  "nileshchakraborty/astraplay": {
+    "source": "",
+    "zh": "开源 PS4/PS5 远程游玩客户端，覆盖 Android、iOS、Windows、macOS、Linux、Steam Deck 等平台。"
+  },
+  "oliv3rmoon/datura": {
+    "source": "",
+    "zh": "Nightshade Stream：基于 ProsperoLight 的 PS5 Moonlight 游戏串流客户端，采用黑红配色。"
+  },
+  "saawant12/orbit-play-ps5": {
+    "source": "",
+    "zh": "已破解 PS5 的远程游玩工具，支持 Mac、Windows、Linux，以及无需 PSN 登录的本地连接和加密远程连接。"
+  },
+  "ballerisleet/anycontroller": {
+    "source": "",
+    "zh": "在已破解 PS5 上，将 Switch Pro 或 Xbox/XInput 手柄模拟成 DualSense 使用。"
+  },
+  "s-mohammad-a/sani-ps5": {
+    "source": "",
+    "zh": "通过 ESP32-S3 和远程游玩连接，在 PS5 上使用 Xbox One / Series X|S 手柄，仅传输手柄控制。"
+  },
+  "vendashson-rgb/control-ps-5": {
+    "source": "",
+    "zh": "PS5 手柄与控制相关项目，原仓库未提供详细简介。"
+  },
+  "smoxa/ps5-new-overlay": {
+    "source": "",
+    "zh": "已破解 PS5 的独立游戏内监控叠加层，提供 12 项实时硬件指标和网页配置界面。"
+  },
+  "abrocoma/cachyos-ps5-guide": {
+    "source": "",
+    "zh": "已破解 PS5 安装 CachyOS Linux 的使用指南，涵盖黑屏、HDMI、Wi-Fi、蓝牙和 DualSense 等问题。"
+  },
+  "codemaster953/ps5-linux-on-13.60-framework": {
+    "source": "",
+    "zh": "PS5 13.60 固件 Linux 运行方案相关项目，原仓库未提供详细简介。"
   }
 }
