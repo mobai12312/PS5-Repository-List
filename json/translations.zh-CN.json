@@ -974,5 +974,245 @@
   "codemaster953/ps5-linux-on-13.60-framework": {
     "source": "",
     "zh": "PS5 13.60 固件 Linux 运行方案相关项目，原仓库未提供详细简介。"
+  },
+  "dmitriipetukhov/dsxinput": {
+    "source": "",
+    "zh": "在 Linux 上将 PS5 DualSense 手柄模拟成 Xbox 360 手柄，支持按游戏配置 XInput，无需 Steam。"
+  },
+  "emacorona/ps5-cachyos-tools": {
+    "source": "",
+    "zh": "面向 PS5 Linux/CachyOS 的自动风扇控制工具，包含 15 个温控区域及低噪声、均衡、高性能模式。"
+  },
+  "gzimbric/ps5-linux-porting": {
+    "source": "",
+    "zh": "整理 PS5 Linux 加载器跨固件移植的技术记录和工具，以测试证据为依据。"
+  },
+  "ilyasturki/universe": {
+    "source": "",
+    "zh": "支持手柄操作的 Linux 游戏启动器，汇总 Steam、GOG、Epic、itch.io 和模拟器游戏库，采用主机风格界面。"
+  },
+  "isaiah-a-t/linux": {
+    "source": "",
+    "zh": "作者为 PS5 定制的 Linux 桌面环境，也可在普通电脑上使用。"
+  },
+  "j4lenj/ps5-mt7921-wifi": {
+    "source": "",
+    "zh": "PS5 Linux 的 MT7921 Wi-Fi 驱动适配，作者仅在 PS5 Slim 13.60、Ubuntu 26.04.1 和内核 7.1.7 上测试。"
+  },
+  "ldm087/ludemos-ps5": {
+    "source": "",
+    "zh": "面向 PS5 Slim 的游戏型 Linux 发行版，支持 Wi-Fi 安装、主机双启动，以及不依赖 Steam 的 Proton 游戏启动器。"
+  },
+  "masterps0/linux-desktop-wallpapers-for-ps5": {
+    "source": "",
+    "zh": "适用于 PS5 Linux 桌面的壁纸合集。"
+  },
+  "muftiomar/ps5-linux-dma-bounce-fix": {
+    "source": "",
+    "zh": "PS5 Linux 的 DMA 缓冲问题修复相关项目，原仓库未提供详细简介。"
+  },
+  "plabs5/plinux5-ng": {
+    "source": "",
+    "zh": "面向较高 PS5 固件版本（8.xx 至 13.xx）的 Linux 运行环境。"
+  },
+  "quartconz/ps5-pro-viola-bluetooth": {
+    "source": "",
+    "zh": "PS5 Pro Viola 平台 Linux 蓝牙支持相关项目，原仓库未提供详细简介。"
+  },
+  "sajadsrc/ps5-linux-loader-1160": {
+    "source": "",
+    "zh": "利用虚拟机监控程序漏洞启动自定义引导程序的 PS5 Linux Payload。"
+  },
+  "therealrexo/ps5-linux-loader": {
+    "source": "",
+    "zh": "PS5 Linux 启动 Payload，可在休眠恢复时启动 Linux，并提供内置网页管理服务。"
+  },
+  "vivalavent/ps5-bazzite-deck": {
+    "source": "",
+    "zh": "PS5 平台的 Bazzite Deck 镜像，提供 Steam 游戏模式以及 VCN、Wi-Fi 支持。"
+  },
+  "wigglez-sudo/12.xx-linux-loader": {
+    "source": "",
+    "zh": "PS5 12.xx 固件 Linux 加载器，作者标注支持 12.00、12.02、12.20、12.40、12.60、12.70 及不同机型。"
+  },
+  "zeronoir51/ps5-power-control": {
+    "source": "",
+    "zh": "PS5 Linux 的 CPU 调速策略控制工具，可在主机终端或通过 SSH 运行。"
+  },
+  "drakmor/kstuff-lite": {
+    "source": "",
+    "zh": "精简版 PS5 kstuff 组件，原仓库未提供详细简介。"
+  },
+  "echostretch/kstuff": {
+    "source": "",
+    "zh": "PS5 kstuff 相关项目，原仓库未提供详细简介。"
+  },
+  "echostretch/kstuff-lite": {
+    "source": "",
+    "zh": "PS5 kstuff Lite 精简版本，原仓库未提供详细简介。"
+  },
+  "echostretch/kstuff-toggle": {
+    "source": "",
+    "zh": "PS5 kstuff 启用与关闭切换工具，原仓库未提供详细简介。"
+  },
+  "itsplk/ps5-unified-autoloader": {
+    "source": "",
+    "zh": "PS5 统一自动加载器项目，原仓库未提供详细简介。"
+  },
+  "michele-m-media/hyperhen": {
+    "source": "",
+    "zh": "PS5 HyperHEN 项目，原仓库未提供详细简介。"
+  },
+  "michele-m-media/pizza-hen": {
+    "source": "",
+    "zh": "PS5 Pizza-HEN 项目，原仓库未提供详细简介。"
+  },
+  "naye1120/nayeplmtools": {
+    "source": "",
+    "zh": "PS5 Payload Manager 中文增强分支，支持游戏改名、存档管理、背景音乐、主屏幕排序等功能。"
+  },
+  "ps3120/onionhen-kernel-log-plugin": {
+    "source": "",
+    "zh": "OnionHEN 的内核日志插件项目；当前无法读取原仓库详细简介。"
+  },
+  "thecriicom/omega-dashboard": {
+    "source": "",
+    "zh": "面向支持自制程序的主机的开源主屏幕替代方案，提供软件商店、主题、音乐、手机遥控和聊天等功能，可自行部署服务端。"
+  },
+  "abasow/onix-hub": {
+    "source": "",
+    "zh": "PS5 镜像与 PKG 管理工具，支持创建、解包、修补和管理 PKG、FFPKG、exFAT 镜像，并提供网页文件管理界面。"
+  },
+  "desstannsoftware/ps5-pkg-folderizer": {
+    "source": "",
+    "zh": "将 PS4/PS5 调试版 PKG 在主机上转换成 ShadowMountPlus 可用目录或镜像的自制程序。"
+  },
+  "echostretch/dump_installer": {
+    "source": "",
+    "zh": "PS5 游戏转储安装工具项目，原仓库未提供详细简介。"
+  },
+  "echostretch/dump_runner": {
+    "source": "",
+    "zh": "PS5 游戏转储运行工具项目，原仓库未提供详细简介。"
+  },
+  "echostretch/ps5-app-dumper": {
+    "source": "",
+    "zh": "PS5 应用程序转储工具，原仓库未提供详细简介。"
+  },
+  "fthdgn-gh/alembic": {
+    "source": "",
+    "zh": "PS4/PS5 游戏安装包和转储镜像格式转换工具，可在主机或电脑上转换 FPKG、exFAT、FFPKG、FFPFS、FFPFSC。"
+  },
+  "gasb07/neoenabler": {
+    "source": "",
+    "zh": "使缺少 PS4 兼容支持的游戏能够使用 ps-patch-system 补丁，以便尝试解锁更高分辨率。"
+  },
+  "guernica4u/pkg-master": {
+    "source": "",
+    "zh": "PS4/PS5 游戏文件转换工具，可转换 eboot.bin、eboot.elf 等格式，便于配合 AnyPS5 等项目使用。"
+  },
+  "kerrdec97/exfat-ripper": {
+    "source": "",
+    "zh": "PS5 exFAT 游戏库信息提取工具。"
+  },
+  "kerrdec97/game-catalogue": {
+    "source": "",
+    "zh": "Windows 游戏目录浏览器，闭源发布，仅提供预编译程序。"
+  },
+  "kerrdec97/pfs-ripper": {
+    "source": "",
+    "zh": "用于浏览、管理和导出 PS5 PFS 游戏镜像库的桌面工具。"
+  },
+  "kerrdec97/ps5-exfat-builder": {
+    "source": "",
+    "zh": "PS5 exFAT 镜像构建工具，原仓库未提供详细简介。"
+  },
+  "knutwurst/ps5-patchdl": {
+    "source": "",
+    "zh": "直接在 PS5 上查询、下载和安装游戏官方更新，支持并发下载、断点续传、网页控制台及主屏幕入口。"
+  },
+  "robbedcolek/pkgmerge": {
+    "source": "",
+    "zh": "将拆分的 PS4/PS5 正式版安装包合并为单个 PKG 文件。"
+  },
+  "strongt1me/ps5-dump-image-converter": {
+    "source": "",
+    "zh": "PS5 游戏转储镜像格式转换工具，原仓库简介较简略。"
+  },
+  "darkxex/prosperostore": {
+    "source": "",
+    "zh": "PS5 原生自制软件商店，用于浏览 ProsperoStore.net 项目目录。"
+  },
+  "jvk3r/jobeeslair": {
+    "source": "",
+    "zh": "PS5 自制软件索引和媒体展示框架，不内置特定内容。"
+  },
+  "louro2023/hldrive": {
+    "source": "",
+    "zh": "PS5 实验性文件管理器，支持公开 Google Drive 资源、向主机下载文件和网页界面。"
+  },
+  "phoenixx1202/spectrum-library": {
+    "source": "",
+    "zh": "Spectrum Library 的 PS5 软件库项目，原仓库未提供详细简介。"
+  },
+  "lishersong/ps5-mango": {
+    "source": "",
+    "zh": "Mango 版本的 PS5 网页文件管理器。"
+  },
+  "mastersword64/ps5-fm": {
+    "source": "",
+    "zh": "PS5 文件管理器项目，原仓库未提供详细简介。"
+  },
+  "oso7735/drivehop": {
+    "source": "",
+    "zh": "适用于已破解 PS5 的双栏游戏存储管理器。"
+  },
+  "miladrtx/breeze": {
+    "source": "",
+    "zh": "PS5 自定义风扇曲线工具，提供网页控制台、主屏幕入口、CPU/GPU 温度监测、24 小时历史和预设方案。"
+  },
+  "strongt1me/ps5-cooling-system-center-pro": {
+    "source": "",
+    "zh": "已破解 PS5 的散热系统管理中心，包含风扇控制、温度监测和网页管理界面。"
+  },
+  "aarvsn/ps5droid": {
+    "source": "",
+    "zh": "在 PS5 上运行 Android 游戏的项目。"
+  },
+  "bizkut/ps5-forever": {
+    "source": "",
+    "zh": "PS5 平台的《魔兽世界：Forever》Battle.net 启动器，基于 Wine、RADV 并支持自动帧生成。"
+  },
+  "bornaradusin/pc5": {
+    "source": "",
+    "zh": "已破解 PS5 的 PC 游戏启动器，基于 prospero-win、Wine、DXVK 和 VKD3D-Proton，支持从 USB 安装、封面管理和 DualSense 功能。"
+  },
+  "dantaipan/ps64": {
+    "source": "",
+    "zh": "通过 PS5 或 macOS 查看、操作 Commodore 64 Ultimate，支持影音串流、手柄、文件浏览、搜索及收藏。"
+  },
+  "griches/ps5_eternaldarkness": {
+    "source": "",
+    "zh": "将《永恒的黑暗：理智的安魂曲》移植到 PS5 的自制项目，需用户自行提供游戏光盘数据。"
+  },
+  "heydemoura/prosperoeden": {
+    "source": "",
+    "zh": "PS5 实验性 Eden 模拟器移植项目的镜像仓库。"
+  },
+  "iswebro/console-shelf-ps5": {
+    "source": "",
+    "zh": "PS5 原生游戏与模拟器资料库，提供网格、滑动浏览及可自定义陈列架，作者在 12.20 固件测试过早期版本。"
+  },
+  "kamb205/kb-rpcs3": {
+    "source": "",
+    "zh": "RPCS3 的非官方 PS5 原生移植版，用于运行 PS3 游戏；当前为 Alpha 阶段。"
+  },
+  "kauansilvalopes/estante": {
+    "source": "",
+    "zh": "已破解 PS5 的原生游戏库管理工具，支持 3D 书架、合集、收藏和模拟器封面。"
+  },
+  "kernelforgelabs/prosperoeden-switch-ui": {
+    "source": "",
+    "zh": "由 KernelForgeLabs 维护的 ProsperoEden 分支，采用类似 Nintendo Switch 的界面。"
   }
 }
