@@ -46,8 +46,13 @@ export async function localizeDatabase(db, language) {
     categories: (db.categories || []).map(item => ({...item, name: CATEGORY_NAMES[item.id] || item.name})),
     repos: (db.repos || []).map(item => {
       const originalDescription = item.description || '';
-      const entry = translations[(item.fullName || '').toLowerCase()];
-      const description = entry && entry.source === item.description && typeof entry.zh === 'string'
+      const normalize = value => String(value || '').trim().toLowerCase().replace(/\\/+$/, '');
+      const key = normalize(item.fullName || '');
+      const urlKey = normalize((item.url || '').replace(/^https?:\\/\\/github\\.com\\//i, ''));
+      const entry = translations[key] || translations[urlKey];
+      // Keep original English for inspection. Translate display independently of metadata refresh;
+      // check-translations.js reports changed source text for human review.
+      const description = entry && typeof entry.zh === 'string' && entry.zh.trim()
         ? entry.zh : originalDescription;
       return {...item, originalDescription, description};
     })
