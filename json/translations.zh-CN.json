@@ -1214,5 +1214,209 @@
   "kernelforgelabs/prosperoeden-switch-ui": {
     "source": "",
     "zh": "由 KernelForgeLabs 维护的 ProsperoEden 分支，采用类似 Nintendo Switch 的界面。"
+  },
+  "lavavex/rpcs3-ps5": {
+    "source": "",
+    "zh": "RPCS3 的实验性 PS5 原生移植项目，采用 RADV Vulkan 和大屏幕界面，目前主要提供源码。"
+  },
+  "lucidic15/ps5sx3-rpcn-configs": {
+    "source": "",
+    "zh": "为 PS5SX3（PS5 的 PS3 模拟器）整理 RPCN 联机配置，包含部分游戏自定义服务器的 DNS 或地址设置。"
+  },
+  "mihawk-99/ps5_mihawkos": {
+    "source": "",
+    "zh": "受 Windows 启发的 PS5 自制系统，尝试通过 Wine/Proton 兼容层及 Vulkan 支持 32/64 位 Windows 游戏。"
+  },
+  "mistertemaki/beetlepceps5": {
+    "source": "",
+    "zh": "Beetle PCE（Mednafen）的 PS5 原生移植版，支持 PC Engine、TurboGrafx-16、SuperGrafx 和多种 CD 扩展格式。"
+  },
+  "mistertemaki/stellaps5": {
+    "source": "",
+    "zh": "Stella Atari 模拟器的 PS5 原生移植版，涉及 Atari 2600、5200、7800 和 Lynx 平台。"
+  },
+  "mortaljinx/seedee5": {
+    "source": "",
+    "zh": "面向 PS5 原生自制程序环境的 Philips CD-i 模拟器。"
+  },
+  "niakw/prosperoeden-encore": {
+    "source": "",
+    "zh": "ProsperoEden Encore 实验性 PS5 Switch 模拟器分支，标注适配 13.60，支持多种游戏格式、DualSense 界面和按游戏配置等功能。"
+  },
+  "oliv3rmoon/mandrake": {
+    "source": "",
+    "zh": "Nightshade Station：基于 SwanStationPS5 的 PS1 模拟器版本，采用黑红配色。"
+  },
+  "owenksmith24-tech/rpcs3-ps5-port-build-": {
+    "source": "",
+    "zh": "以 KB-RPCS3 源码为基础构建的 PS5 版本，包含作者的修改和新功能。"
+  },
+  "premohq/ps5-ecam": {
+    "source": "",
+    "zh": "面向 PS5 自制程序的 Wii U、3DS、DS 和 Switch 模拟器组合方案，包含 Cemu、Azahar、melonDS 和 Eden。"
+  },
+  "press5elect/crux2": {
+    "source": "",
+    "zh": "PCSX2（PS2 模拟器）的 PS5 移植版。"
+  },
+  "press5elect/psflycast": {
+    "source": "",
+    "zh": "Flycast 模拟器相关 PS5 移植项目，可模拟 Dreamcast、Naomi、Naomi 2 和 Atomiswave。"
+  },
+  "press5elect/psswanstation": {
+    "source": "",
+    "zh": "SwanStation（PS1 模拟器）的 PS5 移植版。"
+  },
+  "rpf16rj/flycast-ps5-libretro-core": {
+    "source": "",
+    "zh": "面向 PS5 的 Flycast Libretro 模拟器核心，原仓库未提供详细简介。"
+  },
+  "skarift/jewelcase": {
+    "source": "",
+    "zh": "已破解 PS5 的 ROM 游戏启动器，可按游戏机平台浏览卡带或光盘封面，并调用相应模拟器启动。"
+  },
+  "the7mirrors/5s2cd": {
+    "source": "",
+    "zh": "在已破解 PS5 上运行自己的 PS2 游戏光盘，可使用内置光驱或 USB DVD 光驱；基于 PS5SX2 分支。"
+  },
+  "therealretro/mupen64plus-ps5": {
+    "source": "",
+    "zh": "Nintendo 64 模拟器 Mupen64Plus 的 PS5 原生版本，支持动态重编译、DualSense 震动、封面库、即时存档和自动更新。"
+  },
+  "zomavich-netizen/arcade-ps5": {
+    "source": "",
+    "zh": "PS5 原生街机模拟器，提供即时存档、自动旋转和 CRT 风格游戏库，不包含游戏及 BIOS。"
+  },
+  "dyadf/luci-app-ps5block": {
+    "source": "",
+    "zh": "OpenWrt/LuCI 的 PS5 系统更新屏蔽插件，支持多层网络规则，尽量不影响游戏、PSN 和其他设备。"
+  },
+  "eladharels/ps5-netdis": {
+    "source": "",
+    "zh": "PS5 网络功能相关工具，原仓库未提供详细简介。"
+  },
+  "ledybacer/prosperolight": {
+    "source": "",
+    "zh": "Moonlight 游戏串流客户端的非官方 PS5 移植版。"
+  },
+  "lescanotomas/ps5-stream8": {
+    "source": "",
+    "zh": "适用于 PS5 13.60 固件的实验性游戏串流方案，使用硬件 H.264 编码。"
+  },
+  "s0liton/ps5-romm": {
+    "source": "",
+    "zh": "PS5 与 RomM 游戏资料库整合相关项目，原仓库未提供详细简介。"
+  },
+  "0xz3n0x/bluev": {
+    "source": "",
+    "zh": "PS5 蓝牙音频工具，可将主机声音传输到蓝牙音箱和耳机。"
+  },
+  "abhi245y/spot5": {
+    "source": "",
+    "zh": "适用于已破解 PS5 的独立原生 Spotify 音乐客户端。"
+  },
+  "anime0t4ku/prospero-hi-fi": {
+    "source": "",
+    "zh": "面向 PS5 自制程序环境的音乐播放器，重点支持无损音频，基于作者的 MiSTer Hi-Fi 项目。"
+  },
+  "bornaradusin/prosperoradio": {
+    "source": "",
+    "zh": "PS5 原生网络电台应用 ProsperoRadio 的后续维护版本。"
+  },
+  "devvnirvana/afterglow": {
+    "source": "",
+    "zh": "PS5 音乐与可视化应用，提供网络电台、USB 本地音乐及随节拍变化的视觉效果。"
+  },
+  "ezzy1231/pulse-deck": {
+    "source": "",
+    "zh": "使用 PS5 DualSense 手柄操作的浏览器双音轨 DJ 应用，采用 React、WebHID 和 Web Audio。"
+  },
+  "fortibrine/rustsense": {
+    "source": "",
+    "zh": "通过 USB HID 将音频传输到 PS5 DualSense 手柄耳机接口的工具。"
+  },
+  "haydengriffin/afterglow-ps5": {
+    "source": "",
+    "zh": "已破解 PS5 的非官方 Music Assistant 音乐播放器，包含 MilkDrop 音乐可视化效果。"
+  },
+  "hebiii994/ps5-solobridge": {
+    "source": "",
+    "zh": "已破解 PS5 的常驻音频 Payload，通过 USB 将游戏和系统音频输出到 Focusrite Scarlett Solo（UAC2）。"
+  },
+  "lozazamastro/cd-player": {
+    "source": "",
+    "zh": "PS5 原生音乐 CD 播放器，提供简洁的数字音乐播放界面。"
+  },
+  "playkaraoke/ps5-playkaraoke-player": {
+    "source": "",
+    "zh": "适用于已破解 PS5 的卡拉 OK 播放器，支持 CDG/MP4、实时变调、轮唱和手机扫码点歌。"
+  },
+  "sainsaji/ps5-audio-passthrough-research": {
+    "source": "",
+    "zh": "PS5 音频直通技术研究项目，原仓库未提供详细简介。"
+  },
+  "yahballon/ps5_audiobook_reader": {
+    "source": "",
+    "zh": "PS5 有声读物阅读器和书架应用。"
+  },
+  "ps4macedo/instalador-host-psm-poop2jb": {
+    "source": "",
+    "zh": "PS5 Poop2JB 相关 Host 安装工具，原仓库未提供详细简介。"
+  },
+  "axekinn/squashui": {
+    "source": "",
+    "zh": "桌面端批量光盘镜像压缩、解包与整理工具，支持 CHD、RVZ、CSO、PS4/PS5 PKG 等格式及下载资源管理。"
+  },
+  "deepkicks/titaniapy": {
+    "source": "",
+    "zh": "电脑端 Python 命令行工具，可解析、分析和尝试解密 PS5 PUP/BLS 固件文件，支持多种密钥分析功能。"
+  },
+  "dv-list/folder-updater-for-itsplk-ps5-payloads-mirror": {
+    "source": "",
+    "zh": "监控本地文件夹中的 PS5 Payload 文件，检查新版本并更新本地副本。"
+  },
+  "hotshotz79/ps5-logo-changer": {
+    "source": "",
+    "zh": "修改 PS5 应用或游戏图标标识的工具。"
+  },
+  "kerrdec97/ps5-backport-gui": {
+    "source": "",
+    "zh": "PS5 Backport 图形工具的早期封闭测试版，当前主要提供 Windows 64 位版本。"
+  },
+  "kiikeep/kik-trophy": {
+    "source": "",
+    "zh": "Windows 平台 PS5 奖杯备份检查与所属账号 ID 编辑工具。"
+  },
+  "manos555555/ps5-suite": {
+    "source": "",
+    "zh": "跨平台 PS5 综合管理套件，支持并行文件传输、游戏挂载、存档、媒体管理、系统监控、PKG 安装和风扇工具。"
+  },
+  "mrguddi84-bit/y2jb-mrgee-theme-builder-pro": {
+    "source": "",
+    "zh": "PS5 Y2JB 主题制作工具，可创建主题文件、寻找主机主题目录并通过 FTP 自动上传。"
+  },
+  "voidfnc/voidrecoverps5": {
+    "source": "",
+    "zh": "Windows 端非官方 PS5 系统恢复辅助工具，可校验固件文件、制作恢复 U 盘，并提供分步骤恢复指南。"
+  },
+  "alfizari/ps5debug-studio": {
+    "source": "",
+    "zh": "面向 ps5debug-NG 的综合调试与金手指工具，支持内存扫描、指针搜索、反汇编、函数调用、Python 脚本和多种格式导出。"
+  },
+  "creamyg31337/ps5-tools": {
+    "source": "",
+    "zh": "使用 Python 标准库实现的小型 PS5 工具合集，包含残留内容扫描、SELF 检查与 SDK 补丁相关工具。"
+  },
+  "griches/ps5_devtools": {
+    "source": "",
+    "zh": "已破解 PS5 自制程序的开发诊断工具，可收集崩溃回溯和内存变化图表，并通过局域网页面查看。"
+  },
+  "rastafairy/visual-ps5": {
+    "source": "",
+    "zh": "面向 PS5 自制软件开发的可视化 IDE 与界面组合工具。"
+  },
+  "overdriveps5/overdrive-releases": {
+    "source": "",
+    "zh": "适用于已破解 PS5 的 Overdrive 项目版本发布仓库。"
   }
 }
